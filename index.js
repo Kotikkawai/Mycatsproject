@@ -20,7 +20,7 @@ snakeImg.src = 'foto/snake.png';
 
 //Food
 const foodImg = new Image();
-foodImg.src = 'foto/hui 32.png';
+foodImg.src = 'foto/rabbit.png';
 
 let score = 0;
 let direction = '';
